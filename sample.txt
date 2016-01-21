@@ -4,3 +4,5 @@ kyougou test1
 kyougou test 2
 
 brunch sakusei add
+
+brunch issue2 add
